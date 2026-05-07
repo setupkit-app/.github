@@ -1,6 +1,6 @@
 # setupkit.app                                                                                                                                                                                  
    
-  A web app that construct AI assistant config files — `CLAUDE.md`, `.cursorrules`, `.windsurfrules`, `copilot-instructions.md` — based on your stack, your level, and what you're building.      
+  A web app that helps you write AI assistant config files — `CLAUDE.md`, `.cursorrules`, `.windsurfrules`, `copilot-instructions.md` — based on your stack, your level, and what you're building.      
                   
   → [setupkit.app](https://setupkit.app)                                                                                                                                                          
                   
