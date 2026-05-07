@@ -1,17 +1,15 @@
-<div align="center">                                                                                                                                                                            
-                                                            
-  <a href="https://setupkit.app">
-    <img src="https://setupkit.app/logo-256.png" alt="setupkit.app" width="120" height="120">
-  </a>                                                                                                                                                                                            
+  <div align="center">                                                                                                                                                                            
    
-  # setupkit.app                                                                                                                                                                                  
+  #### A web app that helps you write AI assistant config files                                                                                                                                   
                                                             
-  A web app that helps you write AI assistant config files — `CLAUDE.md`, `.cursorrules`, `.windsurfrules`, `copilot-instructions.md` — based on your stack, your level, and what you're building.
+  `CLAUDE.md` · `.cursorrules` · `.windsurfrules` · `copilot-instructions.md`                                                                                                                     
    
-[setupkit.app](https://setupkit.app)                                                                                                                                                          
+  based on your stack, your level, and what you're building.                                                                                                                                      
                                                             
-  </div>
-
+  [**setupkit.app →**](https://setupkit.app)                                                                                                                                                      
+   
+  </div>                                                                                                                                                                                          
+                                                            
   ---
 
   ## The problem
@@ -23,19 +21,19 @@
   setupkit.app asks you a few questions and outputs a file you can drop into your repo.                                                                                                           
                                                             
   ## What's inside                                                                                                                                                                                
-   
+                                                            
   - A questionnaire covering stack, conventions, level, project type                                                                                                                              
   - One input, files for all four major AI coding tools     
-  - Examples per stack: Next.js, Django, Flutter, Go, Laravel, FastAPI, Astro
+  - Examples per stack: Next.js, Django, Flutter, Go, Laravel, FastAPI, Astro                                                                                                                     
   - 3 free files, paid plan for unlimited                                                                                                                                                         
-   
+                                                                                                                                                                                                  
   ## Links                                                                                                                                                                                        
-                                                            
-  - Site — [setupkit.app](https://setupkit.app)
+                                                                                                                                                                                                  
+  - Site — [setupkit.app](https://setupkit.app)                                                                                                                                                   
   - Pricing — [setupkit.app/pricing](https://setupkit.app/pricing)
   - Examples — [setupkit.app/examples](https://setupkit.app/examples)                                                                                                                             
-  - Teams — [setupkit.app/teams](https://setupkit.app/teams)
-                                                                                                                                                                                                  
-  ---                                                       
-                                                                                                                                                                                                  
+  - Teams — [setupkit.app/teams](https://setupkit.app/teams)                                                                                                                                      
+   
+  ---                                                                                                                                                                                             
+                                                            
   Built solo. Feedback: [contact@setupkit.app](mailto:contact@setupkit.app).
